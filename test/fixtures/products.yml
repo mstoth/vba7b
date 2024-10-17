@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: logo
+  description: logo
+  image_url: logo
+  price: 9.99
+
+two:
+  title: rails
+  description: rails
+  image_url: rails
+  price: 9.99
